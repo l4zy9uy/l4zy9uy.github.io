@@ -21,5 +21,5 @@ Highlight test:
  	
  	return 0;
 
-#=> prints 'Hello, World' to STDOUT.
+// prints 'Hello, World' to STDOUT.
 {% endhighlight %}
