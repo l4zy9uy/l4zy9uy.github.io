@@ -10,4 +10,4 @@ title:  "Post Testing"
 I hope you like it!
 
 Image test:
-![My helpful screenshot](/asset/cutecat)
+![My helpful screenshot](/asset/cutecat.webp)
